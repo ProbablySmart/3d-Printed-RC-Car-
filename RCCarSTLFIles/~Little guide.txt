@@ -1,0 +1,6 @@
+This is nothing crazy, but the STL files that say 2x make sure to print it twice, and thats it
+OH AND!
+F = Front
+B = Back
+R= Right 
+L = Left
